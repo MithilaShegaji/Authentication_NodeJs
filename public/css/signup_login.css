@@ -1,0 +1,30 @@
+body {
+  background: linear-gradient(135deg, #45065e 10%, #ACB6E5 100%);
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: linear-gradient(135deg, #d5a1ea 10%, #ACB6E5 100%);
+  border-radius: 12px;
+  max-width: 400px;
+  width: 100%;
+}
+
+#auth-heading {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.form-group label {
+  font-size: 0.9rem;
+  color: #000000;
+}
+
+.switch-link a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.switch-link a:hover {
+  text-decoration: underline;
+}
